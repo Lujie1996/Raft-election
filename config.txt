@@ -1,0 +1,4 @@
+N: 3
+node0: localhost:6001
+node1: localhost:6002
+node2: localhost:6003
